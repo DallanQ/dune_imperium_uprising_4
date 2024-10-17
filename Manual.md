@@ -1,75 +1,69 @@
-## Across the Imperium (Page 2)
+## SETUP (Page 4)
 
-Note: The game comes with multiple leaders from some of the Great
-Houses. For the most authentic story experience, more than one leader
-from the same House shouldn’t be used in the same game. But the
-game is also designed to allow nonstandard leader combinations and
-“What If?” scenarios.
+A. Place the game board in your play area (with the side shown face up), and then place the following components on it:
 
-## Setup (Page 4)
+A1. Place the Shield Wall token in the marked area below the Spice Reﬁnery board space.
+ 
+A2. Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
 
-- A. Place the game board in your play area (with the side shown face up), and then place the following components on it:
+B. Create A Conﬂict Deck:
 
-- A1. Place the Shield Wall token in the marked area below the Spice Reﬁnery board space.
+Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
 
-- A2. Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
+Shuffle the four Conﬂict III cards and place all of them face down in the marked area of the game board.
 
-- B. Create A Conﬂict Deck:
+Shuffle the nine Conﬂict II cards, then deal ﬁve face down on top of the Conﬂict III cards.
 
-  Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
+Shuffle the three Conﬂict I cards, then deal one face down on top of the Conﬂict II cards.
 
-  Shuffle the four Conﬂict III cards and place all of them face down in the marked area of the game board.
+You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂict I card on top, ﬁve Conﬂict II cards below it, then the four Conﬂict III cards on the bottom. Return the unused Conﬂict cards to the game box without looking at them.
 
-  Shuffle the nine Conﬂict II cards, then deal ﬁve face down on top of the Conﬂict III cards.
-
-  Shuffle the three Conﬂict I cards, then deal one face down on top of the Conﬂict II cards.
-
-  You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂict I card on top, ﬁve Conﬂict II cards below it, then the four Conﬂict III cards on the bottom. Return the unused Conﬂict cards to the game box without looking at them.
-
-- C. Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black circle bordered with an orange-colored ring.)
+C. Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black circle bordered with an orange-colored ring.)
   
-- C1. Shuffle the Intrigue Deck and place it face down.
+C1. Shuffle the Intrigue Deck and place it face down.
   
-- C2. Shuffle the Imperium Deck and place it face down. From it, deal ﬁve cards face up to form an Imperium Row.
+C2. Shuffle the Imperium Deck and place it face down. From it, deal ﬁve cards face up to form an Imperium Row.
 
-- C3. Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
+C3. Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
   
-- D. Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
+D. Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
 
-  Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
+Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
 
-- E. Each Player Takes A 10-Card starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
-> Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
+(PAGE 5)
+E. Each Player Takes A 10-Card starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
+Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
 
-- F1. Each player takes 1 water and places it in their supply.
+F1. **Each player takes 1 water** and places it in their supply.
 
-- F2. Create a bank next to the game board containing the Solari, spice, remaining
+F2. Create a bank next to the game board containing the Solari, spice, remaining
 water tokens, and the sandworms you prefer (either wood, plastic, or both). These are not meant to be limited; if you run out and need more, make any convenient substitution. also, add the 4 Maker Hooks tokens to the bank.
 
-- G. Each player chooses a color and takes all of its components.
+G. Each player chooses a color and takes all of its components.
 
-- G1. Place two of your Agents on your Leader. Place your third Agent (your Swordmaster) Next To The Game Board.
+G1. Place two of your Agents on your Leader. Place your third Agent (your Swordmaster) Next To The Game Board.
 
-- G2. Place one of your two discs on the Score track. In a 4-player game, place it on the 1 space. Otherwise, place it on the 0 space.
+G2. Place one of your two discs on the Score track. In a 4-player game, place it on the 1 space. Otherwise, place it on the 0 space.
 
-- G3. Place your Combat marker (with the side shown at the right face up) on the 0 space of the Combat track.
+G3. Place your Combat marker (with the side shown at the right face up) on the 0 space of the Combat track.
 
-- G4. Place four cubes, one each, on the bottom spaces of the Inﬂuence tracks of the four Factions.
+G4. Place four cubes, one each, on the bottom spaces of the Inﬂuence tracks of the four Factions.
 
-- G5. The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
+G5. The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
 
-- G6. Place your remaining components in your supply, in clear view of all players.
+G6. Place your remaining components in your supply, in clear view of all players.
 
-- H. Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
+H. Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
 
-  Each player draws one Objective at random, then places it face up in their supply. The player whose objective shows the First Player marker takes that marker.
-> In step A, there is no Mentat; place the Shield Wall token on the board instead. In step C3, there are no Foldspace cards. Sandworms and Maker Hooks are placed in the bank in step F2. Spies are added to the components each player takes in step G. Objective cards are distributed in step H, and these determine the first player.
+Each player draws one Objective at random, then places it face up in their supply. The player whose objective shows the First Player marker takes that marker.
 
-## Game Overview And Major Concepts (Page 6)
+In step A, there is no Mentat; place the Shield Wall token on the board instead. In step C3, there are no Foldspace cards. Sandworms and Maker Hooks are placed in the bank in step F2. Spies are added to the components each player takes in step G. Objective cards are distributed in step H, and these determine the first player.
+
+## GAME OVERVIEW AND MAJOR CONCEPTS (Page 6)
 
 ### OBJECTIVE (Page 6)
 
-You are a Leader representing one of the Great Houses of the Landsraad (or another powerful ﬁgure on the galactic stage). Defeat your rivals in Combat, wield political Inﬂuence, and form alliances with the four major Factions. Your successes will be measured in Victory Points.
+You are a Leader representing one of the Great Houses of the Landsraad (or another powerful ﬁgure on the galactic stage). Defeat your rivals in Combat, wield political Inﬂuence, and form alliances with the four major Factions. Your successes will be measured in **Victory Points**.
 
 Whenever you gain or lose a Victory Point, move your Score marker up or down one space on the Score track. At the end of a round, if any player has reached 10 or more Victory Points (or if the Conﬂict Deck is empty), the game ends, and whoever has the most Victory Points wins.
 
@@ -78,7 +72,7 @@ Whenever you gain or lose a Victory Point, move your Score marker up or down one
 Each Leader has two different unique abilities:
 
 The ﬁrst, is used during play as described on the Leader.
-> This one is the Leader itself.
+This one is the Leader itself.
 
 The second, the card which is marked by the Signet Ring icon, is activated when you play your Signet Ring card on one of your Agent turns.
 
@@ -86,21 +80,21 @@ The second, the card which is marked by the Signet Ring icon, is activated when 
 
 You start the game with a 10-card deck containing the same cards as the other players. Adding to and changing that deck is the key element of play in a deck-building game. During each round, you may acquire new cards to add to your deck. Because cards do many different things, each player's deck and strategy will diverge from the others as the game unfolds.
 
-Whenever you acquire a new Imperium or Reserve card, it is ﬁrst placed in your discard pile. Any time you're unable to draw a card because your deck is empty, you reshuffle your discard pile to form a new deck, then continue to draw as needed.
+Whenever you acquire a new Imperium or Reserve card, it is ﬁrst placed **in your discard pile**. Any time you're unable to draw a card because your deck is empty, you reshuffle your discard pile to form a new deck, then continue to draw as needed.
 
 There are also ways to **"trash"** cards, removing them from your deck altogether for the rest of the game. By strategically removing weaker cards from your deck, you increase the chances of drawing your stronger cards more often.
-> Cards of any type can override usual rules of the game!
+Cards of any type can override usual rules of the game!
 
 ### AGENTS (Page 6)
 
 You start the game with two Agents (and can gain a third during play). You send Agents to spaces on the game board, sometimes gathering resources, sometimes paying resources to advance your strategy. (This is explained fully in Phase 2: Player Turns, while board spaces are described in detail in the separate Board Space Guide sheet.)
 
-In DUNE: IMPERIUM — UPRISING, Agents and cards are tightly linked; you can't send an Agent to a board space without ﬁrst playing a card that allows it.
-> There Is No Mentat Agent In UPRISING.
+In DUNE: ***IMPERIUM — UPRISING***, Agents and cards are tightly linked; you can't send an Agent to a board space without ﬁrst playing a card that allows it.
+There Is No Mentat Agent In UPRISING.
 
 ### FACTIONS (Page 7)
 
-In DUNE: IMPERIUM — UPRISING, the four Factions represent powerful forces on Dune and elsewhere in the Imperium. Increasing your Inﬂuence and earning an Alliance with one or more of them is one of the key routes to victory in the game. See "Across the Imperium" on Page 2 for short descriptions of each of the Factions.
+In DUNE: IMPERIUM — UPRISING, the four Factions represent powerful forces on Dune and elsewhere in the Imperium. Increasing your **Inﬂuence** and earning an Alliance with one or more of them is one of the key routes to victory in the game. See "Across the Imperium" on Page 2 for short descriptions of each of the Factions.
 
 Your Faction cubes begin at the bottom of each Faction's Inﬂuence track. Throughout the game, your Inﬂuence with a Faction will increase or decrease, depending on the cards you play and the actions you take. When you send an Agent to a Faction's board space, gain one Inﬂuence with that Faction by advancing your cube one space on its Inﬂuence track. Other game effects can also move your cube up (and occasionally down) the track.
 
@@ -108,7 +102,7 @@ When you reach 2 Inﬂuence with a Faction, you gain a Victory Point. If you dro
 
 When you reach 4 Inﬂuence, you earn the bonus shown on that space of the track. If you drop back below 4 Inﬂuence, you do not give back the bonus. (It's possible—though unusual—to earn the same bonus more than once, if you move back then advance again.)
 
-The ﬁrst player to reach 4 Inﬂuence with a Faction also earns an Alliance with that Faction. They take the Alliance token from the track, put it in their supply, and gain the Victory Point shown on the Alliance token. If they are ever passed by an opponent rising to a higher space on the track, they must give the Alliance token to that opponent; they lose that Victory Point and the opponent gains it.
+The **ﬁrst** player to reach 4 Inﬂuence with a Faction also earns an **Alliance** with that Faction. They take the Alliance token from the track, put it in their supply, and gain the Victory Point shown on the Alliance token. If they are ever passed by an opponent rising to a **higher** space on the track, they must give the Alliance token to that opponent; they lose that Victory Point and the opponent gains it.
 
 ### INTRIGUE CARDS (Page 7)
 
@@ -116,7 +110,7 @@ Intrigue cards represent subterfuge, backroom dealings, and surprise twists — 
 
 You receive Intrigue cards primarily from board spaces such as Secrets, Sardaukar, and Assembly Hall. (But look for other opportunities on cards, wherever you see the Intrigue card icon.) They are kept face down, separate from your deck. You may look at them at any time. Reveal them to your opponents only when you play them. Once an Intrigue card is played and resolved, place it face up in a discard pile next to the Intrigue Deck.
 
-There are three types of Intrigue cards: Plot, Combat, and Endgame.
+There are **three types** of Intrigue cards: Plot, Combat, and Endgame.
 
 - You may play a Plot Intrigue card any time during one of your Agent or Reveal turns.
 
@@ -146,52 +140,52 @@ DUNE: IMPERIUM — UPRISING is played in a series of rounds. Each round consists
 
 Each round begins by revealing a new Conﬂict card from the top of the Conﬂict Deck. Place it face up in the space next to the Conﬂict Deck (on top of any Conﬂict cards that might remain from previous rounds).
 
-Next, each player draws ﬁve cards from their own deck, forming their hand for the round.
+Next, each player draws ﬁve cards from **their own** deck, forming their hand for the round.
 
 ### PHASE 2: PLAYER TURNS (Page 8)
 
 Starting with the player who has the First Player marker and continuing clockwise, players take one turn at a time.
 
-On your turn, you will take either an Agent turn or a Reveal turn. These types of turns are detailed over the next ﬁve pages. Generally, you will take Agent turns until you run out of Agents to place, then you will take a Reveal turn. (Note that Agent turns are optional. If you choose to, you can take a Reveal turn while you still have Agents instead of taking an Agent turn.)
+On your turn, you will take either an **Agent turn** or a **Reveal turn**. These types of turns are detailed over the next ﬁve pages. Generally, you will take Agent turns until you run out of Agents to place, then you will take a Reveal turn. (Note that Agent turns are optional. If you choose to, you can take a Reveal turn while you still have Agents instead of taking an Agent turn.)
 
 Once you've taken a Reveal turn, your turns are skipped for the rest of the phase, while other players ﬁnish taking their turns. Once all players have taken a Reveal turn, this phase ends.
 
-You may play any Plot Intrigue cards you have during this phase, at any point during one of your own Agent or Reveal turns.
+You may play any **Plot Intrigue cards** you have during this phase, at any point during one of your own Agent or Reveal turns.
 
 #### CARD ANATOMY (Page 8)
 
 The effects of each card in your deck are divided into two parts: an Agent box and a Reveal box. On any given turn, you may use the effects contained in only one of those boxes: the Agent box during an Agent turn, or the Reveal box during a Reveal turn.
 
-- A. Name
-  > Top left on the screen.
+A. Name
+  Top left on the screen.
 
-- B. Faction
-  > Not all cards are part of a Faction.
-  > Located under the name.
+B. Faction
+  Not all cards are part of a Faction.
+  Located under the name.
 
-- C. Agent Icons
-  > Middle left on the card
+C. Agent Icons
+  Middle left on the card
 
-- D. Agent Box
-  > Middle bottom on the card, with the grey background.
+D. Agent Box
+  Middle bottom on the card, with the grey background.
 
-- E. Reveal Box
-  > Bottom of the card and under the Agent box, with the dark blue background.
+E. Reveal Box
+  Bottom of the card and under the Agent box, with the dark blue background.
 
-- F. Persuasion Cost
-  > Top right on the screen, a specific number with a blue diamond shape.
+F. Persuasion Cost
+  Top right on the screen, a specific number with a blue diamond shape.
 
-- G. Acquire effect
-  > Not all cards have an Acquire effect
-  > Located under the persuasion cost.
+G. Acquire effect
+  ***Not all cards have an Acquire effect
+  Located under the persuasion cost***.
 
 ### PLAYER TURN – AGENT TURN (Page 9)
 
 In an Agent turn, you play one card from your hand face up in front of you, using it to send an Agent from your Leader to an unoccupied space on the game board. This board space must have an icon in its upper left corner matching one of the Agent icons on the card. (Though Spies, explained on page 11, provide an alternative to this.)
 
-You must choose only one Agent icon on your card; one card can't send multiple Agents.
+You must choose only **one** Agent icon on your card; one card can't send multiple Agents.
 
-You can't send an Agent to a board space that already has one. (Though Spies, explained on page 11, can provide a way around this.)
+**You can't send an Agent to a board space that already has one.** (Though Spies, explained on page 11, can provide a way around this.)
 
 You must pay any costs and meet any requirements of the board space you choose.
 
@@ -201,7 +195,7 @@ If a card does not have any Agent icons on it, you may not play it during an Age
 
 #### Board Space Costs (Page 9)
 
-To send an Agent to some board spaces, you must pay a cost. If you can't pay the cost immediately (before resolving any effects of the space or the card you played), you can't send your Agent there.
+To send an Agent to some board spaces, you must pay a cost. If you can't pay the cost **immediately** (before resolving any effects of the space or the card you played), you can't send your Agent there.
 
 Here are the two Fremen spaces on the game board. The top space, "Desert Tactics," requires that you pay 1 water to send an Agent there.
 
@@ -211,49 +205,49 @@ The bottom space, "Fremkit," has no additional cost.
 
 To send an Agent to certain board spaces, you must have enough Inﬂuence with a particular Faction.
 
-- Imperial Privilege requires 2 or more Inﬂuence with the Emperor.
+**Imperial Privilege** requires 2 or more Inﬂuence with the Emperor.
 
-- Shipping requires 2 or more Inﬂuence with the Spacing Guild.
+**Shipping requires** 2 or more Inﬂuence with the Spacing Guild.
 
-- Sietch Tabr requires 2 or more Inﬂuence with the Fremen.
+**Sietch Tabr requires** 2 or more Inﬂuence with the Fremen.
 
 The eight different Agent icons are:
 
-- Emperor
+Emperor
   > White letter T with a semicircle on top of it.
 
-- Spacing Guild
+Spacing Guild
   > Red infinity symbol.
 
-- Bene Gesserit
+Bene Gesserit
   > Purple bug-like shape.
 
-- Fremen
+Fremen
   > Blue sphere that contains a blue core inside.
 
-- Landsraad
+Landsraad
   > Green pentagon shape.
 
-- City
+City
   > Blue circle
 
-- Spice Trade
+Spice Trade
   > Yellow triangle
 
-- Spy
-  > Symbol of a grey eye
+Spy
+ > Symbol of a grey eye
 
-This Imperial Spymaster card has two Agent icons. The Emperor icon allows you to send your Agent to either of the two Emperor board spaces, while the Spy icon allows you to send it to any board space connected to an observation post where you have a Spy.
+This ***Imperial Spymaster*** card has two Agent icons. The Emperor icon allows you to send your Agent to either of the two Emperor board spaces, while the Spy icon allows you to send it to any board space connected to an observation post where you have a Spy.
 
-When you play a card and send an Agent to a board space, you gain the effects of the board space as well as the effects contained in the Agent box of the card. If the board space belongs to one of the Factions, you also move your cube one space up on its Inﬂuence track. You may carry out all these effects in any order.
+When you play a card and send an Agent to a board space, you gain the effects of the board space as well as the effects contained in the Agent box of the card. If the board space belongs to one of the Factions, you also move your cube one space up on its Inﬂuence track. **You may carry out all these effects in any order.**
 
 Some card effects are written out, but many are iconized. Refer to the separate Board Space Guide sheet for an explanation of all board spaces, and the back cover of the rulebook for a guide to all game icons and additional game terms.
 
 Arrows on cards and on the board (white arrow pointing to the right) indicate that there is a cost (left of the arrow, or above it) you must pay to get the effect (right of the arrow, or below it). You are never forced to pay such a cost. However, if you don't, you won't gain the effect. You may only pay the cost and gain the effect once during your turn.
 
-> When you play Ecological Testing Station, you may decide not to pay 2 water to draw two cards. (You may not pay 4 water to draw four cards.)
+When you play Ecological Testing Station, you may decide not to pay 2 water to draw two cards. (You may not pay 4 water to draw four cards.)
 
-> There are additional board spaces requiring 2 Inﬂuence with a Faction, and a new Agent icon (Spy).
+There are additional board spaces requiring 2 Inﬂuence with a Faction, and a new Agent icon (Spy).
 
 ### PLAYER TURN – AGENT TURN (CONTINUED Page 10)
 
@@ -261,26 +255,26 @@ Arrows on cards and on the board (white arrow pointing to the right) indicate th
 
 At the start of each round, the current Conﬂict card is revealed, offering rewards for which the players will compete in Combat. Players will need to deploy units to ﬁght for these rewards. There are two types of units: troops and sandworms.
 
-> The RISE OF IX expansion includes another type of unit, called dreadnoughts.
+The ***RISE OF IX*** expansion includes another type of unit, called dreadnoughts.
 
-Whenever the cube icon appears on a card or board space, you recruit one troop. Take a troop from your supply and place it in your garrison on the game board.
+Whenever the cube icon appears on a card or board space, you recruit one troop. Take a troop from your **supply** and place it in your **garrison** on the game board.
 (If you run out of troops in your supply, you can't recruit more until some return there.)
 
 Units won't help you win combats while in your garrison, however. You may deploy them to a Conﬂict when you send an Agent to a Combat space. Combat spaces are board spaces that feature a desert illustration and crossed swords. While most of these appear on the planet Dune itself, three appear with the Factions: one with the Spacing Guild (Heighliner) and two with the Fremen (Desert Tactics and Fremkit).
 
-When you send an Agent to a Combat space, you may deploy units to the Conﬂict area—the area of the game board in the center of the garrisons. You may deploy any or all units recruited during your current turn (including from the board space and from the card you played), plus up to two more units from your garrison. (The Conﬂict area is divided into quadrants. Keep your deployed units in the quadrant nearest to your garrison.)
+When you send an Agent to a Combat space, you may deploy units to the Conﬂict area—the area of the game board in the center of the garrisons. You may deploy **any or all** units recruited during your current turn (including from the board space and from the card you played), plus **up to two** more units from your garrison. (The Conﬂict area is divided into quadrants. Keep your deployed units in the quadrant nearest to your garrison.)
 
 Whenever the sandworm icon appears on a card or board space, you summon and immediately deploy a sandworm to the Conﬂict. (A sandworm can never be placed in a garrison.) Two restrictions also limit the summoning of sandworms:
 
-- First, the sandworm icon is usually prefaced by a requirement to have a
+First, the sandworm icon is usually prefaced by a requirement to have a
 Maker Hooks token on your garrison (which can be obtained at Sietch Tabr).
 
-- Second, a sandworm can't be summoned to a Conﬂict protected
+Second, a sandworm can't be summoned to a Conﬂict protected
 by the Shield Wall. (See Critical Locations and the Shield Wall.)
 
 #### Critical Locations And The Shield Wall (Page 10)
 
-Some Conﬂict cards (explained more in Phase 3: Combat) represent a struggle taking place at one of three locations on Dune: Arrakeen, Spice Reﬁnery, or Imperial Basin (based on the card's title). If you win such a Conﬂict, your rewards include control of the board space: take a Control marker from your supply and place it on the ﬂag below the appropriate space.
+Some Conﬂict cards (explained more in Phase 3: Combat) represent a struggle taking place at one of three locations on Dune: Arrakeen, Spice Reﬁnery, or Imperial Basin (based on the card's title). If you win such a Conﬂict, your rewards include control of the board space: take a **Control marker** from your supply and place it on the ﬂag below the appropriate space.
 
 While your Control marker is on one of these spaces, you receive the bonus shown whenever any player (yourself included) sends an Agent there. The bonus is 1 Solari for Arrakeen or Spice Reﬁnery, and 1 spice for Imperial Basin.
 
@@ -291,11 +285,11 @@ These three important locations are protected from storms and sandworms by a Shi
 When the Shield Wall detonation icon appears on a card or board space, you may remove the Shield Wall token from its place on the board
 (returning it to the box). Once this token has been removed, sandworms may be summoned to any Conﬂict.
 
-> Sandworms are a new type of unit, detailed in the ﬁnal three paragraphs at the left. The Shield Wall protects against their use, as detailed in the ﬁnal two paragraphs above.
+Sandworms are a new type of unit, detailed in the ﬁnal three paragraphs at the left. The Shield Wall protects against their use, as detailed in the ﬁnal two paragraphs above.
 
 #### Spies (Page 11)
 
-Across the board are various observation posts where players may place Spies. Each of these is connected to one or more board spaces.
+Across the board are various **observation posts** where players may place Spies. Each of these is connected to one or more board spaces.
 
 Whenever the Spy icon appears on a card or board space, you may place a Spy from your supply on an unoccupied observation post on the board. If you have no Spies in your supply when you need to place one, you may ﬁrst recall one of your Spies for no effect.
 
@@ -325,11 +319,11 @@ _Abby could keep her three newly recruited troops in her garrison. But Arrakeen 
 
 _Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead._
 
-> Spies are a new element of the game, detailed above.
+Spies are a new element of the game, detailed above.
 
 ### PLAYER TURN – REVEAL TURN (Page 12)
 
-When a player has no more Agents for Agent turns (or chooses not to use any Agents they have remaining), that player takes a Reveal turn. This consists of the following steps in order: Reveal Cards, Resolve Reveal Effects, and Clean Up.
+When a player has no more Agents for Agent turns (or **chooses** not to use any Agents they have remaining), that player takes a Reveal turn. This consists of the following steps in order: Reveal Cards, Resolve Reveal Effects, and Clean Up.
 
 #### REVEAL CARDS (Page 12)
 
@@ -345,7 +339,7 @@ You may resolve Reveal effects in any order you like. In addition, you may use P
 
 After you Reveal Cards, but before you Clean Up, you also total your strength for the Combat this round.
 
-Each unit you have in the Conﬂict adds to your strength. (Units in your garrison or supply contribute nothing.) Each troop is worth 2 strength. Each sandworm is worth 3 strength.
+Each unit you have **in the Conﬂict** adds to your strength. (Units in your garrison or supply contribute nothing.) Each troop is worth 2 strength. Each sandworm is worth 3 strength.
 
 Each sword you revealed during your Reveal turn is worth 1 strength.
 
@@ -382,7 +376,7 @@ _Finally, John takes the remaining cards in front of him and puts them in his di
 
 _The phase continues. Abby and Ned will take a Reveal turn at some point. John is done until the Combat phase._
 
-> Setting Your Strength is no longer an explicit step between "Resolve Reveal Effects" and "Clean Up." Set strength at any point while resolving reveal effects, and update it as needed. This distinction allows cards like the new Gurney Halleck Leader to reference your strength during your Reveal turn.
+Setting Your Strength is no longer an explicit step between "Resolve Reveal Effects" and "Clean Up." Set strength at any point while resolving reveal effects, and update it as needed. This distinction allows cards like the new Gurney Halleck Leader to reference your strength during your Reveal turn.
 
 ### PHASE 3 : COMBAT (Page 14)
 
@@ -392,7 +386,7 @@ Combat is resolved during this phase, but ﬁrst, players have the chance to pla
 
 Starting with the player who has the First Player marker and continuing clockwise, each player with at least one unit in the Conﬂict may play any number of Combat Intrigue cards, or may pass.
 
-You are not required to pass just because you passed earlier in the Combat phase. Once all players involved in Combat pass consecutively, you then resolve the Combat.
+You are not required to pass just because you passed earlier in the Combat phase. Once all players involved in Combat pass **consecutively**, you then resolve the Combat.
 
 If a card changes the number of units a player has in the Conﬂict (or otherwise alters their strength), they adjust their Combat marker accordingly on the Combat track. (Remember: if you have no units in the Conﬂict, your strength is 0.)
 
@@ -400,9 +394,7 @@ If a card changes the number of units a player has in the Conﬂict (or otherwis
 
 Rewards from the Conﬂict card are given to players based on their strength, as shown on the Combat track. 
 
-The player with the highest strength wins the Conﬂict and gains the ﬁrst reward on the Conﬂict card. The player with the second highest strength gains the second reward. In a game with four (or six) players, the player with the third highest strength gains the third reward. (With three or fewer players, the third reward is used only in a tie for second place, as described in the **Ties** section.) Finally, the winner takes the Conﬂict card, places it in their supply face up, then checks for a battle icon match (see Battle Icons).
-
-> Battle icons are cards with symbols of knife, Mouse, and Ornithopter.
+The player with the highest strength wins the Conﬂict and gains the ﬁrst reward on the Conﬂict card. The player with the second highest strength gains the second reward. In a game with four (or six) players, the player with the third highest strength gains the third reward. (With three or fewer players, the third reward is used only in a tie for second place, as described in the **Ties** section.) Finally, the winner takes the Conﬂict card, places it in their supply face up, then checks for a battle icon match (see Battle Icons below).
 
 A player with 0 strength does not receive any reward.
 
@@ -426,13 +418,15 @@ When any number of players tie for third place, they receive nothing.
 
 There are three battle icons: Crysknife, Desert Mouse, and Ornithopter. When you win a Conﬂict and take that card into your supply, check if you have another face-up Conﬂict or Objective card in your supply with the same battle icon. If you do, you must ﬂip the matching pair of cards face down and gain 1 Victory Point.
 
+> Battle icons are cards with symbols of knife, Mouse, and Ornithopter.
+
 ##### Sandworm Reward Doubling (Page 14)
 
-When taking rewards, if you have one or more sandworms in the Conﬂict, double the rewards you take. Most rewards can be doubled (but taking control of a location cannot, nor can battle icons on Conﬂict cards you win). When a reward offers the option to pay a cost to gain something, you may pay the cost a second time to gain it a second time.
+When taking rewards, if you have one or more sandworms in the Conﬂict, **double the rewards** you take. Most rewards can be doubled (but taking control of a location cannot, nor can battle icons on Conﬂict cards you win). When a reward offers the option to pay a cost to gain something, you may pay the cost a second time to gain it a second time.
 
 _If you win this reward with one or more sandworms, you gain 2 Influence (with the same Faction or two different Factions), and may also pay 3 spice to gain a Victory Point, or 6 spice to gain 2._
 
-> Battle Icons and Sandworm Reward Doubling bring new strategic considerations to Combat. After other rewards are taken, the winner of a Conﬂict takes the Conﬂict card into their supply and checks for a battle icon match. Sandworms are returned to the bank after combat.
+Battle Icons and Sandworm Reward Doubling bring new strategic considerations to Combat. After other rewards are taken, the winner of a Conﬂict takes the Conﬂict card into their supply and checks for a battle icon match. Sandworms are returned to the bank after combat.
 
 _As the Combat Phase begins, John has 11 strength and Abby has 9 strength. John has the First Player marker, but he's already ahead in the Conflict. He passes on the chance to play a Combat Intrigue card._
 
@@ -480,19 +474,19 @@ If the case of a tie, tiebreakers are, in order: amount of spice, Solari, water,
 
 ## CHOAM MODULE (Page 16)
 
-DUNE: IMPERIUM — UPRISING comes with a mini-expansion called the CHOAM Module. We recommend that you play without it at least once to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth.
+DUNE: *IMPERIUM — UPRISING* comes with a mini-expansion called the CHOAM Module. We recommend that you play without it at least once to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth.
 
 ### SETUP (Page 16)
 
 Add or modify the following steps of your setup:
 
-- A3. Shuffle the 20 contracts face down, then ﬂip two of them face up and place them on the marked spaces on the board beneath the Landsraad Council. Place the remaining 18 face down in the bank. 
+A3. Shuffle the 20 contracts face down, then ﬂip two of them face up and place them on the marked spaces on the board beneath the Landsraad Council. Place the remaining 18 face down in the bank. 
 
-- C1. Shuffle the four additional Intrigue cards into your Intrigue Deck.
+C1. Shuffle the four additional Intrigue cards into your Intrigue Deck.
 
-- C2. Shuffle the four additional Imperium cards into your Imperium Deck.
+C2. Shuffle the four additional Imperium cards into your Imperium Deck.
 
-- D. A player has the option to choose Shaddam Corrino IV
+D. A player has the option to choose Shaddam Corrino IV
 as their Leader. (Though this is not required.)
 
 ### TAKING CONTRACTS (Page 16)
@@ -509,9 +503,9 @@ A contract represents your promise to fulﬁll a service for the CHOAM Corporati
 
 - A Harvest contract is completed by sending an Agent to a Maker board space and gaining the amount of spice shown during that turn (in total, including from sources other than the space itself).
 
-- The Immediate contract is completed as soon as you take it.
+- The **Immediate** contract is completed as soon as you take it.
 
-- The Acquire The Spice Must Flow contract is completed when you next acquire that card.
+- The **Acquire** The Spice Must Flow contract is completed when you next acquire that card.
 
 When you complete a contract, announce that you have done so, gain the rewards it shows, then ﬂip it face down. Leave it in your supply, as certain cards refer to "completed contracts."
 
@@ -535,7 +529,7 @@ After setting up the 20 standard contracts, shuffle the 10 RISE OF IX contracts 
 
 - **Spacing Guild's Favor** — Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
 
-> These clarifications pertain to UPRISING cards. The CHOAM Module on the opposite page is new.
+These clarifications pertain to UPRISING cards. The CHOAM Module on the opposite page is new.
 
 ## STRATEGY TIPS (Page 17)
 
@@ -563,13 +557,13 @@ The sandworms of Dune are powerful forces of nature. However, with the aid of th
 
 ## COMBINING UPRISING WITH OTHER DUNE: IMPERIUM PRODUCTS (Page 18)
 
-DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM products.
+DUNE: _IMPERIUM — UPRISING_ is compatible with all previous _DUNE: IMPERIUM_ products.
 
 ### ADDING RISE OF IX (Page 18)
 
 - During setup, keep the CHOAM board overlay folded in half and cover only the top-right corner of the UPRISING board. This will create a new CHOAM section and cover the Assembly Hall and Gather Support board spaces in the Landsraad, while leaving the rest of the Landsraad board spaces in UPRISING unchanged.
 
-- Because RISE OF IX was produced before UPRISING, the CHOAM board overlay and Ix board don't have observation posts printed on them. Play as if there is one observation post on each of those boards: one observation post connects to Interstellar Shipping and Smuggling and the other connects to Tech Negotiation and Dreadnought.
+- Because RISE OF IX was produced before UPRISING, the CHOAM board overlay and Ix board don't have observation posts printed on them. **Play as if there is one observation post on each of those boards**: one observation post connects to Interstellar Shipping and Smuggling and the other connects to Tech Negotiation and Dreadnought.
 
 - We recommend that you do not add the Conﬂict cards from RISE OF IX. You may do so if you wish, but it will make matching battle icons slightly harder. (However, you will need one additional Conﬂict III card to play the Epic Game Mode. In this situation, you should add Economic Supremacy.)
 
@@ -587,71 +581,73 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 
 - You may shuffle all other Intrigue and Imperium cards with UPRISING if you wish, or create your own custom blend of select DUNE: IMPERIUM and UPRISING cards.
 
-> For the latest rulings and clarifications, check the Frequently Asked Questions document at: http://www.Duneimperium.Com/FAQ
+For the latest rulings and clarifications, check the Frequently Asked Questions document at: http://www.Duneimperium.Com/FAQ
+
+Want to enhance your DUNE: IMPERIUM — UPRISING experience? Check out the Dire Wolf Game Room companion app for your PC, smartphone, or tablet.
 
 ## Icon Guide And Additional Terms (Page 20)
 
-- **Acquire.** Some cards have a special acquire box, shown underneath their cost. You gain the effect here one time, at the moment you acquire the card (and not later, when you play it from your hand).
+**Acquire.** Some cards have a special acquire box, shown underneath their cost. You gain the effect here one time, at the moment you acquire the card (and not later, when you play it from your hand).
   > The icon next to it contains the number two in white color on a blue background at the top and a grey cylinder token at the bottom.
 
-- **Agent.** From the Swordmaster space, you can gain your third Agent (that was placed next to the board during setup of the game), then use it for the rest of the game.
+**Agent.** From the Swordmaster space, you can gain your third Agent (that was placed next to the board during setup of the game), then use it for the rest of the game.
   > The icon is like a long hood with a white cross inside.
 
-- **Alliance.** You may use this effect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
+**Alliance.** You may use this effect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
   > The icon is like a red infinity symbol.
 
-- **Battle Icon.*** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
+**Battle Icon.*** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
   > Battle icons are icons with symbols of knife, Mouse, and Ornithopter.
 
 - During the Endgame, you may match the **wild battle icon** with any one of the three Battle Icons in your supply. Flip the matching pair of cards face down and gain 1 Victory Point.
   > Wild Battle icon looks like an interrogation mark with a golden background.
 
-- **Contract.** If playing without the CHOAM Module, gain 2 Solari. If playing with the CHOAM Module, take a face-up contract (or, if there are none left, gain 2 Solari).
+**Contract.** If playing without the CHOAM Module, gain 2 Solari. If playing with the CHOAM Module, take a face-up contract (or, if there are none left, gain 2 Solari).
   > The icon is like a rectangular frame that has has a black circle bordered with an orange-colored ring.
 
-- **Control.** If you win a Conﬂict with a Control reward (of Arrakeen, Spice Reﬁnery, or Imperial Basin), place your Control marker on the ﬂag below that space (replacing any opponent's marker there). When a Conﬂict card is revealed for a space that you already control, you may deploy one troop from your supply to the Conﬂict.
+**Control.** If you win a Conﬂict with a Control reward (of Arrakeen, Spice Reﬁnery, or Imperial Basin), place your Control marker on the ﬂag below that space (replacing any opponent's marker there). When a Conﬂict card is revealed for a space that you already control, you may deploy one troop from your supply to the Conﬂict.
   > The icon looks like a grey bookmark icon with an arc inside.
 
-- **Discard** a card of your choice from your hand. (For this and any other time you're directed to discard a card, it cannot be an Intrigue card, unless speciﬁed.)
+**Discard** a card of your choice from your hand. (For this and any other time you're directed to discard a card, it cannot be an Intrigue card, unless speciﬁed.)
   > The icon is represented by an arrow pointing down with a brown background.
 
-- **Draw a card** from your deck. If your deck is empty, reshuffle the discard pile in your supply to form a new deck, then continue to draw.
+**Draw a card** from your deck. If your deck is empty, reshuffle the discard pile in your supply to form a new deck, then continue to draw.
   > The icon is like a plain green card.
 
-- **Draw an Intrigue card** from the Intrigue Deck. Keep it face down until you play it. You may look at it at any time.
+**Draw an Intrigue card** from the Intrigue Deck. Keep it face down until you play it. You may look at it at any time.
   > The Intrigue card icon contains two question marks, one facing downward and the other facing upward, with a dot positioned between them.
 
-- **Fremen Bond** — You may use this effect if you have one or more other Fremen cards in play. Two cards with Fremen Bond can activate one another, regardless of order played. (See In Play.)
+**Fremen Bond** — You may use this effect if you have one or more other Fremen cards in play. Two cards with Fremen Bond can activate one another, regardless of order played. (See In Play.)
 
-- **In Play** — Cards you play on Agent turns and reveal during your Reveal turn remain face up and "in play" until you clean up at the end of your Reveal turn (unless they are trashed ﬁrst).
+**In Play** — Cards you play on Agent turns and reveal during your Reveal turn remain face up and "in play" until you clean up at the end of your Reveal turn (unless they are trashed ﬁrst).
 
-- **Inﬂuence** — You may use this effect only if you have at least the amount of Inﬂuence indicated with the given Faction. (Here, 2 or more Inﬂuence with the Fremen.)
+**Inﬂuence** — You may use this effect only if you have at least the amount of Inﬂuence indicated with the given Faction. (Here, 2 or more Inﬂuence with the Fremen.)
   > The icon looks like a blue sphere that contains a blue core inside.
 
-- **Gain Inﬂuence** with the Faction shown: Emperor, Spacing Guild, Bene Gesserit, or Fremen.
+**Gain Inﬂuence** with the Faction shown: Emperor, Spacing Guild, Bene Gesserit, or Fremen.
 
-- **Gain one, gain two, lose one Inﬂuence**. Choose any one of the four Factions. (When gaining two Inﬂuence, you can't choose two different Factions.)
+**Gain one, gain two, lose one Inﬂuence**. Choose any one of the four Factions. (When gaining two Inﬂuence, you can't choose two different Factions.)
   > The icons have the faction on top of a black diamond shape. Behind the icon, there is one yellow diamond shape if it gains one influence, two yellow diamond shapes if it gains two influences, and a red diamond shape below it if it loses one influence.
 
-- **Maker**. The board spaces with the Maker icon each gain 1 bonus spice during Phase 4: Makers if no Agent is present. When you send an Agent to one of these board spaces, you gain all bonus spice there.
+**Maker**. The board spaces with the Maker icon each gain 1 bonus spice during Phase 4: Makers if no Agent is present. When you send an Agent to one of these board spaces, you gain all bonus spice there.
   > The icon represents a white sandworm.
 
-- Take a **Maker Hooks** token from the bank, if you don't already have one. Place it on your garrison, indicating that you now have the ability to summon sandworms. When this icon is used before a colon, it indicates a requirement to have a Maker Hooks token on your garrison.
+Take a **Maker Hooks** token from the bank, if you don't already have one. Place it on your garrison, indicating that you now have the ability to summon sandworms. When this icon is used before a colon, it indicates a requirement to have a Maker Hooks token on your garrison.
   > The icon consists of a shield-like shape as the background, with a long rod extending from the top of the shield. At the end of this rod, there's a hook-like structure.
 
-- **Paying a cost.** An arrow indicates a cost (left of the arrow, or above it) and an effect (right of the arrow, or below it). If you don't pay the cost, you don't get the effect. You do not have to pay such a cost on a card. You can't pay the cost more than once per turn (except when sandworm reward doubling applies to a reward on a Conﬂict card).
+**Paying a cost.** An arrow indicates a cost (left of the arrow, or above it) and an effect (right of the arrow, or below it). If you don't pay the cost, you don't get the effect. You do not have to pay such a cost on a card. You can't pay the cost more than once per turn (except when sandworm reward doubling applies to a reward on a Conﬂict card).
   > A series of three icons appear next to the description above: a white left arrow, a white down arrow, and a white downward-pointing triangle.
 
-- **Persuasion** (in the amount shown). You receive Persuasion mainly from the Reveal boxes on your cards. You use it to acquire Imperium or Reserve cards, paying the cost shown in the top right corner of a card.
+**Persuasion** (in the amount shown). You receive Persuasion mainly from the Reveal boxes on your cards. You use it to acquire Imperium or Reserve cards, paying the cost shown in the top right corner of a card.
   > The icon next to it has a white number one in a blue diamond-shape.
 
-- **Recall Agent.** Return one of your other Agents on the board to your Leader (not the Agent you sent during this turn). You may use it again on another Agent turn in the same round.
+**Recall Agent.** Return one of your other Agents on the board to your Leader (not the Agent you sent during this turn). You may use it again on another Agent turn in the same round.
   > The icon contains a long hood with a top-arrow inside.
 
-- **Recall Spy.** Return one of your Spies from an observation post on the board to your supply.
+**Recall Spy.** Return one of your Spies from an observation post on the board to your supply.
   > The icon looks a grey cylinder token with a top-arrow.
 
-- **Resources: Solari, Spice, Water.** When you gain a resource or pay one as a cost, it's taken from or returned to the bank. (For Solari and spice, gain or pay the amount shown.)
+**Resources: Solari, Spice, Water.** When you gain a resource or pay one as a cost, it's taken from or returned to the bank. (For Solari and spice, gain or pay the amount shown.)
   > The solari is a grey coin with a black number in it (i.e., 3). The Spice is an orange hexagon which has a white number in it (i.e., 2). The water icon is a water droplet.
 
 - **Retreat.** — When you retreat a troop, move it from the Conﬂict back to your garrison.
