@@ -600,7 +600,7 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 - **Alliance.** You may use this effect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
   > The icon is like a red infinity symbol.
 
-- **Battle Icon.*** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
+- **Battle Icon.** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
   > Battle icons are icons with symbols of knife, Mouse, and Ornithopter.
 
 - During the Endgame, you may match the **wild battle icon** with any one of the three Battle Icons in your supply. Flip the matching pair of cards face down and gain 1 Victory Point.
