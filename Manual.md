@@ -631,7 +631,7 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 - **Gain Inﬂuence** with the Faction shown: Emperor, Spacing Guild, Bene Gesserit, or Fremen.
 
 - **Gain one, gain two, lose one Inﬂuence**. Choose any one of the four Factions. (When gaining two Inﬂuence, you can't choose two different Factions.)
-  > The icons have the faction on top of a black diamond shape. Behind the icon, there is one yellow diamond shape if it gains one influence, two yellow diamond shapes if it gains two influences, and a red diamond shape below it if it loses one influence.
+  > The icons have the "?" faction on top of a black diamond shape. Behind the icon, there is one yellow diamond shape if it gains one influence, two yellow diamond shapes if it gains two influences, and a red diamond shape below it if it loses one influence.
 
 - **Maker**. The board spaces with the Maker icon each gain 1 bonus spice during Phase 4: Makers if no Agent is present. When you send an Agent to one of these board spaces, you gain all bonus spice there.
   > The icon represents a white sandworm.
